@@ -13,8 +13,6 @@ A class is a collection of objects, a blueprint of objects defining the common a
 _Object:_ <br>
 A unique instance of a data structure that's defined by its class. It is an identifiable entity with a set of characteristics and behavior. <br>
 <br>
-It is important to understand the difference between Procedural Oriented Programming (POP) ans Object Oriented Programming (OOP): <br>
-<br>
 _Inheritance:_ <br>
 The mechanism which creates classes that are built upon existing classes, in a new implementation while maintaining the same behaviors. <br>
 <br>
@@ -39,12 +37,12 @@ Let us understand the difference between Procedural Oriented Programming (POP) a
 | It does not support inheritance. | It supports inheritance. |
 <br>
 
-Advantages of Object Oriented Programming: <br>
+Advantages of Object Oriented Programming:
 1. Reusability <br>
 2. Data Redundancy <br>
 3. Code Maintainance <br>
 4. Flexibility <br>
-5. Security <br>
+5. Security
 This is why C++ is preffered over C as OOP is very advantageous. <br>
 <br>
 
