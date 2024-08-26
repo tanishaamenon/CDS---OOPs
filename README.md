@@ -1,6 +1,4 @@
 # Experiment 11
-<br>
-
 **Aim:** <br>
 To study and implement Classes and Objects <br>
 <br>
