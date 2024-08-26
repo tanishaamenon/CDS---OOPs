@@ -14,14 +14,38 @@ _Object:_ <br>
 A unique instance of a data structure that's defined by its class. It is an identifiable entity with a set of characteristics and behavior. <br>
 <br>
 It is important to understand the difference between Procedural Oriented Programming (POP) ans Object Oriented Programming (OOP): <br>
+<br>
+_Inheritance:_ <br>
+The mechanism which creates classes that are built upon existing classes, in a new implementation while maintaining the same behaviors. <br>
+<br>
+_Encapsulation:_ <br>
+The mechanism which combines similar data and functions into a single unit called a class. It helps protect the data from any change. <br>
+<br>
+_Abstraction:_ <br>
+The mechanism that depends on the separation of the interface and implementation details of the program. It provides only the required details to the user, hiding the technical internal ones. <br>
+<br>
+_Polymorphism:_ <br>
+The mechanism which allows an object to be represented in various forms. <br>
+<br>
+Let us understand the difference between Procedural Oriented Programming (POP) and Object Oriented Programming (OOP): <br>
+<br>
 | Procedural Oriented Programming (POP)  |  Object Oriented Programming (OOP) |
 | ------------- | ------------- |
 | It is a top-down approach.  | Its is a bottom-up approach. |
 | Program is divided into functions. | Program is divided into objects.  |
 | It does not use access modifiers.  | Makes use of access modifiers like _public_, _private_ and _protected_.  |
 | It is less secure  | It is more secure.  |
-| Data can move freely from function to another function within programs. |
-| It does not support inheritance. |
+| Data can move freely from function to another function within programs. | Object can move freely within member functions. |
+| It does not support inheritance. | It supports inheritance. |
+<br>
+
+Advantages of Object Oriented Programming: <br>
+1. Reusability <br>
+2. Data Redundancy <br>
+3. Code Maintainance <br>
+4. Flexibility <br>
+5. Security <br>
+This is why C++ is preffered over C as OOP is very advantageous. <br>
 <br>
 
 **Code:** <br>
