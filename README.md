@@ -3,6 +3,14 @@
 To study and implement Classes and Objects <br>
 <br>
 **Theory:** <br>
+_Object Oriented Programming (OOP):_ <br>
+Object-oriented programming is based on the concept of objects. In object-oriented programming data structures, or objects are defined, each with its own properties or attributes. <br>
+To understand OOP better, let us understand some key concepts of OOPS
+_Class:_ <br>
+A class is a collection of objects, a blueprint of objects defining the common attributes and behavior. This user-defined datatype holds its own instance variables, class variables and member functions which are accessed based on need. This can be done by creating a unique instance of that class.<br>
+_Object:_ <br>
+A unique instance of a data structure that's defined by its class. It is an identifiable entity with a set of characteristics and behavior. <br>
+
 
 **Code:** <br>
 <br>
