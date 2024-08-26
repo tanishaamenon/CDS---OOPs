@@ -44,6 +44,7 @@ Advantages of Object Oriented Programming:
 3. Code Maintainance <br>
 4. Flexibility <br>
 5. Security <br>
+<br>
 This is why C++ is preffered over C as OOP is very advantageous. <br>
 <br>
 
