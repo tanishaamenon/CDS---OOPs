@@ -28,7 +28,7 @@ The mechanism which allows an object to be represented in various forms. <br>
 Let us understand the difference between Procedural Oriented Programming (POP) and Object Oriented Programming (OOP): <br>
 <br>
 | Procedural Oriented Programming (POP)  |  Object Oriented Programming (OOP) |
-| ------------- | ------------- |
+|  :-:  |  :-:  |
 |   It is a top-down approach.  |   Its is a bottom-up approach. |
 |   Program is divided into functions. |   Program is divided into objects.  |
 |   It does not use access modifiers.  |   Makes use of access modifiers like _public_, _private_ and _protected_.  |
