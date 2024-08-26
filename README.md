@@ -29,12 +29,12 @@ Let us understand the difference between Procedural Oriented Programming (POP) a
 <br>
 | Procedural Oriented Programming (POP)  |  Object Oriented Programming (OOP) |
 | ------------- | ------------- |
-| It is a top-down approach.  | Its is a bottom-up approach. |
-| Program is divided into functions. | Program is divided into objects.  |
-| It does not use access modifiers.  | Makes use of access modifiers like _public_, _private_ and _protected_.  |
-| It is less secure  | It is more secure.  |
-| Data can move freely from function to another function within programs. | Object can move freely within member functions. |
-| It does not support inheritance. | It supports inheritance. |
+|   It is a top-down approach.  |   Its is a bottom-up approach. |
+|   Program is divided into functions. |   Program is divided into objects.  |
+|   It does not use access modifiers.  |   Makes use of access modifiers like _public_, _private_ and _protected_.  |
+|   It is less secure  |   It is more secure.  |
+|   Data can move freely from function to another function within programs. |   Object can move freely within member functions. |
+|   It does not support inheritance. |   It supports inheritance. |
 <br>
 
 Advantages of Object Oriented Programming:
