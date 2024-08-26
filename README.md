@@ -38,7 +38,7 @@ Let us understand the difference between Procedural Oriented Programming (POP) a
 
 <br>
 
-Advantages of Object Oriented Programming:
+_Advantages of Object Oriented Programming:_
 1. Reusability <br>
 2. Data Redundancy <br>
 3. Code Maintainance <br>
